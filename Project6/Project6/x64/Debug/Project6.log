@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\TJ\source\repos\Project6\Project6\main.c(39,6): error C2059: 구문 오류: '='
+C:\Users\TJ\source\repos\Project6\Project6\main.c(50,2): error C2059: 구문 오류: 'if'
+C:\Users\TJ\source\repos\Project6\Project6\main.c(53,1): error C2059: 구문 오류: '}'
